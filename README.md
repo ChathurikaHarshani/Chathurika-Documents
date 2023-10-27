@@ -6,3 +6,6 @@
 
 
 <a href=“file:///C:/Users/cnarayana2/OneDrive%20-%20University%20of%20Nebraska-Lincoln/Fall%202023/STAT_850/HW_10_1/hw10-professional-communication-ChathurikaHarshani/CV_ChathurikaNarayana.html” onclick=“window.open(‘file:///C:/Users/cnarayana2/OneDrive%20-%20University%20of%20Nebraska-Lincoln/Fall%202023/STAT_850/HW_10_1/hw10-professional-communication-ChathurikaHarshani/CV_ChathurikaNarayana.html’, ‘_self’);”>
+ Example
+
+</a>
